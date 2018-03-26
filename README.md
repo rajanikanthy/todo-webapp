@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This is simple application to get started with Python, Flask and SQLite3.
+This is simple application to get started with Python, Flask and SQLite3. 
+UI is built using [skeleton](http://getskeleton.com/examples/landing/) CSS. 
 
 ## How to Run
 
