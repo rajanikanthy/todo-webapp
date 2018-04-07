@@ -1,2 +1,1 @@
-from .views import app
-from .models import DatabaseConnection
+from views import app
