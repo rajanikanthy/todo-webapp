@@ -20,5 +20,4 @@ UI is built using [skeleton](http://getskeleton.com/examples/landing/) CSS.
 
 ## Todo
 
-- Use SQLAlchemy for database access
 - Add remind functionality
